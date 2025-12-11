@@ -2,3 +2,6 @@ server:
   port: 8044
 app:
   message: "Hello from git"
+spring:
+  application:
+    name: microservice-app
