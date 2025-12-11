@@ -4,7 +4,6 @@ spring:
       ddl-auto: update
       dialect: org.hibernate.dialect.MySQL8Dialect
   datasource:
-    url: {$SPRING_DATASOURCE_URL}
     username: root
     password: customs
     driver-class-name: com.mysql.cj.jdbc.Driver
