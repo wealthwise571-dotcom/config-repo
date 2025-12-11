@@ -1,9 +1,0 @@
-spring:
-  jpa:
-    hibernate:
-      ddl-auto: update
-      dialect: org.hibernate.dialect.MySQL8Dialect
-  datasource:
-    username: root
-    password: customs
-    driver-class-name: com.mysql.cj.jdbc.Driver
